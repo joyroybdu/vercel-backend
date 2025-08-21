@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "docx2pdf-converter": "^2.1.1",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "html-pdf-node": "^1.0.8",
+    "icons": "^1.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mammoth": "^1.10.0",
+    "mongoose": "^8.17.2",
+    "multer": "^2.0.2",
+    "react": "^19.1.1",
+    "react-icons": "^5.5.0"
+  }
+}
